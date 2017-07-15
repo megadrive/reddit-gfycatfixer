@@ -1,0 +1,11 @@
+{
+  "name": "redditgfycatdetailremover",
+  "version": "1.0.0",
+  "description": "removes gfycat detail and comments the non-detail link",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^3.0.1",
+    "snoowrap": "^1.14.1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "userAgent": "your user agent/1.0",
+  "client": {
+    "id": "yourclientid",
+    "secret": "yourclientsecret"
+  },
+  "tokens": {
+    "refresh": "yourtoken", 
+    "access": "youraccess"
+  },
+  "subreddit": "subreddithere",
+  "template": "[[fixed_url]]\n\n[[smallen|text in here gets small whoah]]"
+}
